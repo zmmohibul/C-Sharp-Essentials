@@ -1,0 +1,16 @@
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/bin/Debug/net5.0/getting-started
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/bin/Debug/net5.0/getting-started.deps.json
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/bin/Debug/net5.0/getting-started.runtimeconfig.json
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/bin/Debug/net5.0/getting-started.runtimeconfig.dev.json
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/bin/Debug/net5.0/getting-started.dll
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/bin/Debug/net5.0/ref/getting-started.dll
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/bin/Debug/net5.0/getting-started.pdb
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/obj/Debug/net5.0/getting-started.csprojAssemblyReference.cache
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/obj/Debug/net5.0/getting-started.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/obj/Debug/net5.0/getting-started.AssemblyInfoInputs.cache
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/obj/Debug/net5.0/getting-started.AssemblyInfo.cs
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/obj/Debug/net5.0/getting-started.csproj.CoreCompileInputs.cache
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/obj/Debug/net5.0/getting-started.dll
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/obj/Debug/net5.0/ref/getting-started.dll
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/obj/Debug/net5.0/getting-started.pdb
+/home/mohib/C-Sharp-Essentials/getting-started/getting-started/obj/Debug/net5.0/getting-started.genruntimeconfig.cache
